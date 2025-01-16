@@ -1,0 +1,6 @@
+chainlit==0.7.501
+cohere==4.37
+openai==1.55.3
+tiktoken
+python-dotenv==1.0.0
+pydantic==2.10.1
